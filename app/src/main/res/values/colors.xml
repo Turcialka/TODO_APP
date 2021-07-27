@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2D7698</color>
+    <color name="colorPrimaryDark">#1E6383</color>
+    <color name="basicAppColor">#2D7698</color>
+    <color name="lightAppColor">#6CA2BC</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="oneTaskView">#99BECF</color>
+    <color name="addTaskView">#CEDEE6</color>
+    <color name="accept">#2D7698</color>
+    <color name="cancel">#811A1A</color>
+</resources>

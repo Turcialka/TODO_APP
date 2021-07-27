@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TODO APP</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="TaskCategory">
+        <item>Praca</item>
+        <item>Zakupy</item>
+        <item>Inne</item>
+    </string-array>
+    <string name="title_activity_add">Dodaj zadanie</string>
+
+</resources>
